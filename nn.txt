@@ -1,0 +1,52 @@
+1 page de couverture 
+(logo de l'iut et de l'entreprise ou du projet, nom, prenom, "dacs", type de rapport , S3, nom du map et de l'enseignant tuteur et année scolaire )
+
+1 page (Sommaire partie numeroté avec generateur , )
+
+12 de pages environ peu aller jusqua 15 si necessaire
+numeroté les pages 
+justifier a droite et a gauche 1,15 1,5 interligne                                                                   
+titre en gras et taille de police legeremnet > en 12 ou max 14                 
+petit paragraphe ou  on dit qu'on est alternant depuis quel date plus quel entreprise quel poste                       |
+presentation synthetique de l'ent 3 ou trois paragraphe                                                                 |         } 1page 
+(ou elle se  situe element historique date creation ou date clé metier de l'ent que fait elle que vend elle  )          |
+retarcer les premier moi de 1 paragraphe                                                                                     |
+buut d e du rappor (l'alternac eet le projet)
+
+
+ 1 partie sur l'alternance et une partie sur le projet 
+
+partie alternace {
+ poste avec qui on travaille 1 para 
+ les missions effectuer 1 para
+ les technologie utiliser 1 para
+vertion synthetique de notre carne de bord
+
+3 4 page 
+
+
+}
+projet {
+explique la problematique du sujet le besoin au quel cela repond qui demande se travaille service info ? client ? qui a se besoin  qui va etre utilisateur de s travaille 
+
+deuxieme axe 
+aspect cahier des charge squele descriptive du projet ou recueille du besoin trois ligne ou plus parfois 
+
+troisieme axe les objectifs faut pas se erpeté
+
+cela depend du projet 
+
+axe 4 tahce preparatoir la prise en main des outils comment on s'st familiariser choix de technoogie avec comprati fd etechnologie  taceh preparatoir ou rencontre que l'on a eu 
+ gestion de projet 
+realiser un decoupaged des tahces dans un outil de gestion de projet 
+ 
+
+
+
+4  a 6 pages plutot 6
+
+
+
+
+}
+ bilan sur l'entreprise et le projet 7 8 ligne 1 demi page de conclusion 
